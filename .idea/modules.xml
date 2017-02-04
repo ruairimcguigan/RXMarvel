@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///Development/MarvelApp/MarvelApp.iml" filepath="/Development/MarvelApp/MarvelApp.iml" />
+      <module fileurl="file:///Development/MarvelApp/app/app.iml" filepath="/Development/MarvelApp/app/app.iml" />
+    </modules>
+  </component>
+</project>
